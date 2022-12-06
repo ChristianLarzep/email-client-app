@@ -1,0 +1,76 @@
+.email-item {
+  color: #333333;
+}
+
+.email-item__overview {
+  width: 280px;
+  padding: 15px 0 15px 0;
+  font-family: Helvetica;
+  font-size: 12px;
+}
+
+.email-item__sender {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100%;
+}
+
+.email-item__sender, .email-item__subject {
+  padding-bottom: 3px;
+}
+
+.email-item__sender-icon {
+  margin-right: 5px;
+}
+
+.email-item__sender-address {
+  font-weight: bold;
+}
+
+.email-item__date {
+  color: #9B9B9B;
+  margin-left: auto;
+}
+
+.email-item__status {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 80px;
+  width: 20px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.email-item__new {
+  height: 9px;
+  width: 9px;
+  border-radius: 50%;
+  background-color: #4990E2;
+}
+
+.email-item__selected {
+  border-left: 4px solid #4990E2;
+  background-color: #F9F9F9;
+}
+
+.email-item__selected:hover {
+  cursor: default;
+}
+
+.email-item__body {
+  color: #9B9B9B;
+}
+
+.email-item:hover {
+  cursor: default;
+}
+/*# sourceMappingURL=styles.css.map */

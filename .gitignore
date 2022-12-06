@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+
+# Fonts
+/src/assets/fonts
+
+# production
+/build

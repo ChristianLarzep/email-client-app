@@ -1,0 +1,65 @@
+.email-item {
+  color: #333333;
+
+  &__overview {
+    width: 280px;
+    padding: 15px 0 15px 0;
+    font-family: Helvetica;
+    font-size: 12px;
+  }
+
+  &__sender {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+
+  &__sender, &__subject {
+    padding-bottom: 3px;
+  }
+
+  &__sender-icon {
+    margin-right: 5px;
+  }
+
+  &__sender-address {
+    font-weight: bold;
+  }
+
+  &__date {
+    color: #9B9B9B;
+    margin-left: auto;
+  }
+
+  &__status {
+    display: flex;
+    height: 80px;
+    width: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__new {
+    height: 9px;
+    width: 9px;
+    border-radius: 50%;
+    background-color: #4990E2;
+  }
+
+  &__selected {
+    border-left: 4px solid #4990E2;
+    background-color: #F9F9F9;
+
+    &:hover {
+      cursor: default;
+    }
+  }
+
+  &__body {
+    color: #9B9B9B;
+  }
+
+  &:hover {
+    cursor: default;
+  }
+}

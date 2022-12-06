@@ -1,0 +1,222 @@
+[
+    {
+      "id": 1000,
+      "from": { 
+        "email": "mhallatt0@walmart.com",
+        "alias": "Henry Cavill" 
+      },
+      "to": "cziem0@surveymonkey.com",
+      "subject": "Office Assistant IV",
+      "body": "condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis",
+      "date": "03/29/2022 03:24:00",
+      "isReaded": false,
+      "isSelected": false,
+      "listId": "TRASH",
+      "avatar": "https://robohash.org/dignissimosetsuscipit.jpg?size=50x50&set=set1",
+      "tag": "Indigo",
+      "attachements": [
+        {
+          "file": "http://dummyimage.com/250x250.jpg/5fa2dd/ffffff",
+          "name": "ut_nulla_sed.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 2000,
+      "from": { 
+        "email": "nmulbery1@seattletimes.com",
+        "alias": "Christian Bale" 
+      },
+      "to": "idimont1@usa.gov",
+      "subject": "Technical Writer",
+      "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+      "date": "11/17/2016 01:25:00",
+      "isReaded": false,
+      "isSelected": false,
+      "listId": "INBOX",
+      "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+      "tag": "Teal",
+      "attachements": [
+        {
+          "file": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+          "name": "sodales_scelerisque_mauris.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 3000,
+      "from": { 
+        "email": "nmulbery2@seattletimes.com",
+        "alias": "Donald Glover" 
+      },
+      "to": "idimont1@usa.gov",
+      "subject": "Technical Writer",
+      "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+      "date": "11/17/2016 07:24:00",
+      "isReaded": false,
+      "isSelected": false,
+      "listId": "INBOX",
+      "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+      "tag": "Teal",
+      "attachements": [
+        {
+          "file": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+          "name": "sodales_scelerisque_mauris.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 4000,
+      "from": { 
+        "email": "nmulbery1@seattletimes.com",
+        "alias": "Christian Bale" 
+      },
+      "to": "idimont1@usa.gov",
+      "subject": "Technical Writer",
+      "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+      "date": "11/17/2016 03:20:00",
+      "isReaded": false,
+      "isSelected": false,
+      "listId": "INBOX",
+      "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+      "tag": "Teal",
+      "attachements": [
+        {
+          "file": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+          "name": "sodales_scelerisque_mauris.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 5000,
+      "from": { 
+        "email": "nmulbery1@seattletimes.com",
+        "alias": "Christian Bale" 
+      },
+      "to": "idimont1@usa.gov",
+      "subject": "Technical Writer",
+      "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+      "date": "11/17/2016 03:24:00",
+      "isReaded": true,
+      "isSelected": false,
+      "listId": "INBOX",
+      "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+      "tag": "Teal",
+      "attachements": [
+        {
+          "file": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+          "name": "sodales_scelerisque_mauris.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 6000,
+      "from": { 
+        "email": "nmulbery1@seattletimes.com",
+        "alias": "Christian Bale" 
+      },
+      "to": "idimont1@usa.gov",
+      "subject": "Technical Writer",
+      "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+      "date": "11/17/2016 03:24:00",
+      "isReaded": true,
+      "isSelected": false,
+      "listId": "INBOX",
+      "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+      "tag": "Teal",
+      "attachements": [
+        {
+          "file": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+          "name": "sodales_scelerisque_mauris.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 7000,
+      "from": { 
+        "email": "nmulbery1@seattletimes.com",
+        "alias": "Christian Bale" 
+      },
+      "to": "idimont1@usa.gov",
+      "subject": "Technical Writer",
+      "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+      "date": "11/17/2016 03:24:00",
+      "isReaded": false,
+      "isSelected": false,
+      "listId": "INBOX",
+      "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+      "tag": "Teal",
+      "attachements": [
+        {
+          "file": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+          "name": "sodales_scelerisque_mauris.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 8000,
+      "from": { 
+        "email": "nmulbery1@seattletimes.com",
+        "alias": "Christian Bale" 
+      },
+      "to": "idimont1@usa.gov",
+      "subject": "Technical Writer",
+      "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+      "date": "11/17/2016 03:24:00",
+      "isReaded": true,
+      "isSelected": false,
+      "listId": "INBOX",
+      "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+      "tag": "Teal",
+      "attachements": [
+        {
+          "file": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+          "name": "sodales_scelerisque_mauris.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 9000,
+      "from": { 
+        "email": "nmulbery1@seattletimes.com",
+        "alias": "Christian Bale" 
+      },
+      "to": "idimont1@usa.gov",
+      "subject": "Technical Writer",
+      "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+      "date": "11/17/2016 03:24:00",
+      "isReaded": false,
+      "isSelected": false,
+      "listId": "INBOX",
+      "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+      "tag": "Teal",
+      "attachements": [
+        {
+          "file": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+          "name": "sodales_scelerisque_mauris.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 10000,
+      "from": { 
+        "email": "nmulbery1@seattletimes.com",
+        "alias": "Christian Bale" 
+      },
+      "to": "idimont1@usa.gov",
+      "subject": "Technical Writer",
+      "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+      "date": "11/17/2016 03:24:00",
+      "isReaded": false,
+      "isSelected": false,
+      "listId": "INBOX",
+      "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+      "tag": "Teal",
+      "attachements": [
+        {
+          "file": "http://dummyimage.com/250x250.jpg/dddddd/000000",
+          "name": "sodales_scelerisque_mauris.jpeg"
+        }
+      ]
+    }
+  ]
